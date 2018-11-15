@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [CustomFlyoutPanel.cs](./CS/WindowsApplication3/CustomFlyoutPanel.cs) (VB: [CustomFlyoutPanel.vb](./VB/WindowsApplication3/CustomFlyoutPanel.vb))
+* **[Main.cs](./CS/WindowsApplication3/Main.cs) (VB: [Main.vb](./VB/WindowsApplication3/Main.vb))**
+<!-- default file list end -->
 # FlyoutPanel - How to navigate between buttons by using a keyboard
 
 
